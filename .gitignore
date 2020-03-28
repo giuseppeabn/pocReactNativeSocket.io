@@ -1,0 +1,9 @@
+
+# mobile
+mobile/node_modules
+mobile/android
+mobile/ios
+mobile/__tests__
+
+# backend
+backend/node_modules
