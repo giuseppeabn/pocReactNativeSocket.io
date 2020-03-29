@@ -6,6 +6,10 @@ const port = 3000;
 
 io.on('connection', socket => {
   console.log('conectado');
+  socket.on('chat message', msg => {
+    console.log(msg)
+    io.emit('chat message', msg)
+  })
   //console.log('socket', socket)
 })
 
