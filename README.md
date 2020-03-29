@@ -1,8 +1,8 @@
 # POC react-native socket.io
 
-Prueba de conceptos utilizando react-native con socket.io
-Este proyecto contiene los directorios de backend y mobile, donde en cada uno
-se encuentra el codigo correspondiente.
+Prueba de conceptos utilizando react-native con socket.io <br />
+Este proyecto contiene los directorios de backend y mobile, donde en cada uno<br />
+se encuentra el codigo correspondiente.<br />
 
 ## Instalacion backend
 
